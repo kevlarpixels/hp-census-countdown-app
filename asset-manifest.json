@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hp-census-countdown-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hp-census-countdown-app/static/js/main.80dc49b6.chunk.js",
+    "main.js.map": "/hp-census-countdown-app/static/js/main.80dc49b6.chunk.js.map",
+    "runtime-main.js": "/hp-census-countdown-app/static/js/runtime-main.c1f74a93.js",
+    "runtime-main.js.map": "/hp-census-countdown-app/static/js/runtime-main.c1f74a93.js.map",
+    "static/js/2.52eb4cda.chunk.js": "/hp-census-countdown-app/static/js/2.52eb4cda.chunk.js",
+    "static/js/2.52eb4cda.chunk.js.map": "/hp-census-countdown-app/static/js/2.52eb4cda.chunk.js.map",
+    "index.html": "/hp-census-countdown-app/index.html",
+    "precache-manifest.1736133899aefc4e5cfcc93f76da7d4a.js": "/hp-census-countdown-app/precache-manifest.1736133899aefc4e5cfcc93f76da7d4a.js",
+    "service-worker.js": "/hp-census-countdown-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hp-census-countdown-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.52eb4cda.chunk.js.LICENSE.txt": "/hp-census-countdown-app/static/js/2.52eb4cda.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hp-census-countdown-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1f74a93.js",
+    "static/js/2.52eb4cda.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.80dc49b6.chunk.js"
+  ]
+}
