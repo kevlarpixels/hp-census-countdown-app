@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hp-census-countdown-app/precache-manifest.7ad5babd8d70a108ebb827c4bc07442c.js"
+  "/hp-census-countdown-app/precache-manifest.6ae30b54b618419a8bcaa44de812142a.js"
 );
 
 self.addEventListener('message', (event) => {
